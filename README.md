@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/gibifyOfficial/GOSTACK-BOOTCAMP-CHALLENGES/blob/master/Front-end-ReactJS/public/assets/front-end.png" 600>
+<img src="https://github.com/gibifyOfficial/Front-end-ReactJS/blob/master/public/assets/front-end.png" 600>
 </h1>
 
 ## TECNOLOGIAS USADAS NO DESAFIO / TECHS:
