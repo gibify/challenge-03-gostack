@@ -9,7 +9,7 @@
  * [Webpack](https://webpack.js.org/)
  * [Yarn](https://yarnpkg.com/)
 
- Acesse [Package.json]()
+ Acesse [Package.json](https://github.com/gibify/Front-end-ReactJS/blob/master/package.json)
  
 ## SOBRE O DESAFIO / ABOUT THIS CHALLENGE:
 Este desafio foi proposto pelo [Bootcamp GoStack](https://rocketseat.com.br/gostack).
