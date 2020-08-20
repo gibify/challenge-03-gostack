@@ -20,5 +20,5 @@ estes serão armazenados na web em lista e por títulos. Nesse desafio, nosso fr
 
 ## Testes:
 <h1 align="center">
-<img src="https://github.com/gibify/Back-end-NodeJS/blob/master/Back-end-NodeJS/public/assets/Screenshot%20(2).png" />
+<img src="https://github.com/gibify/Front-end-ReactJS/blob/master/public/assets/Screenshot%20(17).png" />
 </h1>
