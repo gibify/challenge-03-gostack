@@ -4,10 +4,12 @@
 
 ## TECNOLOGIAS USADAS NO DESAFIO / TECHS:
  * [ReactJS](https://reactjs.org/)
+ * [TypeScript](https://www.typescriptlang.org/)
  * [Babel](https://babeljs.io/)
  * [Webpack](https://webpack.js.org/)
  * [Yarn](https://yarnpkg.com/)
 
+ Acesse [Package.json]()
  
 ## SOBRE O DESAFIO / ABOUT THIS CHALLENGE:
 Este desafio foi proposto pelo [Bootcamp GoStack](https://rocketseat.com.br/gostack).
